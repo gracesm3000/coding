@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SexTechSays</title>
+    <link rel="stylesheet" href="Resources/css/index.css">
+</head>
+<body>
+  <div class="header">
+    <h1>SexTechSays</h1>
+  </div>
+  <div class="about">
+      <p>Weclome to SexTechSays. Your go to place all news related to SexTech</p>
+  </div>
+  <div class="emails">
+      <p>Leave your email below to receive your round up sex tech news and events straight to your inbox</p>
+        <form action="">
+          <input type="text"/>
+          <input type="submit" value="Submit">
+          </form>
+          <a href="www.google.com" target="_blank"> Privacy Policy </a>
+  </div>
+</body>
+</html>
